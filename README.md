@@ -25,6 +25,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=dart&svgfill=2fb3ee" />
 </p> 
 
+<!-- 
 <h2 align="left">Also Worked With</h2>
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=javascript&svgfill=f6df1c" />
@@ -37,7 +38,7 @@
 </p>
 
 ---
-<!-- 
+
 <h2 align="center">Daily Tools & Platforms</h2>
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=github&svgfill=ffffff" />
@@ -54,22 +55,29 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=mysql&svgfill=00758F" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=vercel&svgfill=ffffff" />
 </p>
+-->
 
-
+<h2 align="left">Also Worked With</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
--->
-<h2 align="left">Daily Tools & Platforms</h2>
+
+<h3 align="left">Daily Tools & Platforms</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -77,11 +85,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
 </p>
 
 
