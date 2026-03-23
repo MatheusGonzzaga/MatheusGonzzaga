@@ -21,6 +21,9 @@
 
 <h1 align="left">Mobile Specialist</h1>
 <p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=javascript&svgfill=f6df1c" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=typescript&svgfill=2d79c7" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=node.js&svgfill=659b60" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=flutter&svgfill=2fb3ee" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=dart&svgfill=2fb3ee" />
 </p> 
@@ -28,9 +31,6 @@
 <!-- 
 <h2 align="left">Also Worked With</h2>
 <p align="left">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=javascript&svgfill=f6df1c" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=typescript&svgfill=2d79c7" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=node.js&svgfill=659b60" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=vue.js&svgfill=41b883" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=php&svgfill=7377ad" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=html5&svgfill=E44D26" />
