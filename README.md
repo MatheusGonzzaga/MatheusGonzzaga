@@ -35,7 +35,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=html5&svgfill=E44D26" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=css3&svgfill=1572B6" />
 </p>
-
+<!-- 
 <h2 align="center">Daily Tools & Platforms</h2>
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=github&svgfill=ffffff" />
@@ -51,17 +51,12 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=mongodb&svgfill=47A248" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=mysql&svgfill=00758F" />
   <img src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient(62deg,%23000000%200%25,%232f2f2f%20100%25)&logo=vercel&svgfill=ffffff" />
-</p>
+</p> 
 -->
 
 <h2 align="left">Also Worked With</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
